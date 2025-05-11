@@ -111,7 +111,3 @@ The markets don’t sleep. Neither should your alpha.
 This is just the beginning of AI-driven autonomous crypto intelligence. Join us and **build the future of predictive finance.**
 
 ---
-
-```
-
----
